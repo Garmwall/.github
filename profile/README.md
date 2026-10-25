@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garmwall/.github/main/profile/assets/readme-banner-dark.png">
-    <img alt="garmwall — Every tool call, checked." src="https://raw.githubusercontent.com/Garmwall/.github/main/profile/assets/readme-banner-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Garmwall/.github/blob/main/profile/07%20%C2%B7%20Banner%20README%20(1280%C3%97320)%401x.png">
+    <img alt="garmwall — Every tool call, checked." src="https://github.com/Garmwall/.github/blob/main/profile/07%20%C2%B7%20Banner%20README%20(1280%C3%97320)%401x.png" width="100%">
   </picture>
 </p>
 
